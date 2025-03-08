@@ -1,7 +1,24 @@
-# Build CUDA Neural Network From Scratch
+# CSC14120 - Parallel Programming - 21KHMT1
 
-This project is a CUDA-based neural network implementation, developed from scratch with performance optimizations and modifications. The project is inspired by [cuda-neural-network](ttps://github.comh/pwlnk/cuda-neural-network) and has been extended with additional features and optimizations to improve performance. Notably, the input dataset has been changed to MNIST, a popular dataset for handwritten digit recognition.
-> 🚀a c++ version is here https://github.com/Phoenix8215/build_neural_network_from_scratch_CPP
+## Final Project - Optimizing Artificial Neural Networks (ANN)
+
+## Group information
+
+Group name: HK(D)T
+
+| Student ID | Name |
+| ----------|-------|
+| 21127050 | Trần Nguyên Huân |
+| 21127181 | Nguyễn Nhật Tiến |
+| 21127240 | Nguyễn Phát Đạt |
+
+## Set up
+
+- **CUDA**: Ensure that you have CUDA installed on your system. You can download it from [NVIDIA's website](https://developer.nvidia.com/cuda-downloads).
+- **Make**: Required for building the project.
+- **A modern C++ compiler**: GCC or Clang is recommended.
+- Download [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) and put in folder `mnist_dataset`.
+
 
 ## Features
 
@@ -10,15 +27,7 @@ This project is a CUDA-based neural network implementation, developed from scrat
 - MNIST dataset integration for training and testing the neural network.
 - Customizable network architecture to experiment with different configurations.
 
-## Installation
-
-### Prerequisites
-
-- **CUDA**: Ensure that you have CUDA installed on your system. You can download it from [NVIDIA's website](https://developer.nvidia.com/cuda-downloads).
-- **Make**: Required for building the project.
-- **A modern C++ compiler**: GCC or Clang is recommended.
-
-### Steps
+## Steps
 
 1. Clone the repository:
 
@@ -38,10 +47,6 @@ This project is a CUDA-based neural network implementation, developed from scrat
    ```bash
    ./cuda-conv
    ```
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please fork the repository and make your changes in a separate branch. Then, submit a pull request with a description of your changes.
 
 ## Acknowledgments
 
