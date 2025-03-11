@@ -32,8 +32,8 @@ Group name: HK(D)T
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Phoenix8215/BuildCudaNeuralNetworkFromScratch
-   cd BuildCudaNeuralNetworkFromScratch
+   git clone https://github.com/knightstark7/Parallel-ANN-FashionMNIST-CUDA
+   cd Parallel-ANN-FashionMNIST-CUDA
    ```
 
 2. Build the project using Make:
