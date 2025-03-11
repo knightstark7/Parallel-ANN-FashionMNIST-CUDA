@@ -1,4 +1,4 @@
-# CSC14120 - Parallel Programming - 21KHMT1
+# CSC14120 - Parallel Programming - 21KHMT
 
 ## Final Project - Optimizing Artificial Neural Networks (ANN)
 
